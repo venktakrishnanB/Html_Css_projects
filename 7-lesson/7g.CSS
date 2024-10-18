@@ -1,0 +1,27 @@
+.image{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+input{
+    color: gray;
+    border: none;
+    font-size: 15px;
+    vertical-align: middle;
+}
+button{
+    color: white;
+    background-color: rgb(55, 168, 244);
+    border: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: middle;
+    font-weight: bold;
+    border-radius: 16px;
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    color: gray;
+    font-size: 12px;
+}
+input{
+    margin-top: 0px;
+    width: 290px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+.email{
+    margin-bottom: 5px;
+}
+button{
+    background-color: #2b65b8;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 13px;
+    border-radius: 25px;
+    cursor: pointer;
+}
