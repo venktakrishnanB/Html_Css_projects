@@ -1,0 +1,16 @@
+input{
+    color: gray;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 4px;
+    width: 150px;
+    display: block;
+}
+.name{
+    margin-top: 0;
+    margin-bottom: 5px;
+
+}
+.email{
+    margin-top: 0;
+}
