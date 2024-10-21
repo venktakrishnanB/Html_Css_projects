@@ -1,0 +1,22 @@
+div{
+    background-color: black;
+    font-family: Arial;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 320px;
+}
+.heading{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.description{
+    color: gray;
+    width: 330px;
+    font-size: 14px;
+    margin-top: 0;
+}

@@ -1,0 +1,15 @@
+.container{
+    border-color: rgb(204, 203, 203);
+    border-style: solid;
+    width: 300px;
+    font-family: Arial;
+    border-width: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    font-size: 15px;
+}
+p{
+    margin-top: 0;
+}
